@@ -1,2 +1,4 @@
-# MaskedM0d10
-Python3 Script To Mask Phishing Links
+I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE UNLESS IT'S THE DEADSHOTS
+COMMANDS:
+   boody
+   exit
