@@ -1,4 +1,4 @@
-print("I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE! UNLESS IT'S THE DEADSHOTS")
+print("I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE!")
 def Power():
     terminal = str(input("root@m0d10:~#"))
     if terminal == "boody":
