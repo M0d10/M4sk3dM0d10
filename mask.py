@@ -1,4 +1,6 @@
 import os
+if not 'SUDO_UID' in os.environ.keys():
+  exit("USE ROOT")
 print("I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE!")
 try:
   def Power():
