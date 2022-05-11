@@ -2,7 +2,7 @@ import os
 if not 'SUDO_UID' in os.environ.keys():
   exit("USE ROOT")
 print("I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE!")
-try
+try:
   def Power():
     terminal = str(input("root@m0d10:~#"))
     if terminal == "boody":
